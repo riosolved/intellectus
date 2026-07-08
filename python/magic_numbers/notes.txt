@@ -1,2 +1,0 @@
-.venv/Scripts/python.exe python/magic_numbers/code.py
-.venv/Scripts/python.exe -m system.skills.review --exercise magic_numbers
